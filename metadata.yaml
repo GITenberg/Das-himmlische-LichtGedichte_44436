@@ -1,0 +1,24 @@
+_repo: Das-himmlische-LichtGedichte_44436
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44436-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Rubiner, Ludwig
+    gutenberg_agent_id: '42758'
+    url: http://www.gutenberg.org/2009/agents/42758
+description: ''
+gutenberg_issued: '2013-12-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44436'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Poetry'
+title: "Das himmlische Licht\r\nGedichte"
+url: http://www.gutenberg.org/ebooks/44436
