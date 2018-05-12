@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42758'
     url: http://www.gutenberg.org/2009/agents/42758
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44436#Das-himmlische-LichtGedichte
 gutenberg_issued: '2013-12-15'
 gutenberg_type: Text
 identifiers:
